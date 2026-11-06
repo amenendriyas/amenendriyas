@@ -17,13 +17,10 @@
 ## 💻 Choice of weapon (for NOW)
 <br>
 <p align="center">
-  <img align="right" src="https://i.pinimg.com/736x/81/15/c1/8115c1306f16bbb6566db2233adeacf9.jpg" width="100"/>
-  <img src="https://cdn.simpleicons.org/python/white" width="40" alt="Tech stack" />
+  <img align="right" src="../pictures/pixel-iron-man.gif" width="250">
 
-  
-  
+  <img src="https://cdn.simpleicons.org/python/white" width="40" alt="Tech stack" />
   <img src="https://cdn.simpleicons.org/html5/white" width="40" alt="Tech stack" />
-  <br>
   <br>
   <img src="https://cdn.simpleicons.org/css/white" width="40" alt="Tech stack" />
   <img src="https://cdn.simpleicons.org/github/white" width="40" alt="Tech stack" />
