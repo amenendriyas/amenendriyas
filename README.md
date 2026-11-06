@@ -30,6 +30,14 @@
 
 Probably making music, opening FL Studio, adding 47 plugins, and finishing absolutely nothing.
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
+</div>
+
 
 
 
