@@ -37,8 +37,8 @@
 Probably making music, opening FL Studio, adding 47 plugins, and finishing absolutely nothing.-->
 
 ## 📊 GitHub Stats:
-<div align="left" width="30%">
-  <img src="https://github-readme-stats.shion.dev/api?username=amenendriyas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" /><img src="https://streak-stats.demolab.com/?user=amenendriyas&theme=transparent&hide_border=true" />
+<div align="left" >
+  <img src="https://github-readme-stats.shion.dev/api?username=amenendriyas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%"/><img src="https://streak-stats.demolab.com/?user=amenendriyas&theme=transparent&hide_border=true" width="48%" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amenendriyas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
