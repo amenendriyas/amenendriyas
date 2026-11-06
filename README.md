@@ -16,9 +16,8 @@
 ---
 ## 💻 Choice of weapon (for NOW)
 <br>
-<p align="center">
-  <img align="right" src="../pictures/pixel-iron-man.gif" width="250">
-
+<p align="left">
+ <img align="right" width="140" alt="pixel-iron-man" src="https://github.com/user-attachments/assets/de9d4af4-c2f9-4a64-93a1-7d78dcf109a5" />
   <img src="https://cdn.simpleicons.org/python/white" width="40" alt="Tech stack" />
   <img src="https://cdn.simpleicons.org/html5/white" width="40" alt="Tech stack" />
   <br>
