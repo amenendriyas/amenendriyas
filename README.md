@@ -14,48 +14,23 @@
 - 🏀 Baller for life. 
 - 💭 Sometimes you gotta run before you can walk.
 ---
-### 💻 Choice of weapon (for NOW)
-<br>
-<br>
-<table align="center" border="0">
-<tr>
-<td align="center" valign="middle">
 
-<img src="https://cdn.simpleicons.org/python/white" width="42" alt="Python"/>
-
-</td>
-<td align="center" valign="middle">
-
-<img src="https://cdn.simpleicons.org/html5/white" width="42" alt="HTML5"/>
-
-</td>
-<td align="center" valign="middle">
-
-<img src="https://cdn.simpleicons.org/css/white" width="42" alt="CSS"/>
-
-</td>
-<td align="center" valign="middle">
-
-<img src="https://cdn.simpleicons.org/github/white" width="42" alt="GitHub"/>
-
-</td>
-<td align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="42" alt="Java"/>
-
-</td>
-</tr>
-</table>
-
+### 💻 Choices of weapon (for NOW)
 <div align="center">
-
-<br/>
-
-<img src="https://github.com/user-attachments/assets/de9d4af4-c2f9-4a64-93a1-7d78dcf109a5" width="140" alt="pixel-iron-man"/>
-
+  <img align="middle" src="https://cdn.simpleicons.org/python/white" width="42" alt="Python" />
+  &nbsp;&nbsp;
+  <img align="middle" src="https://cdn.simpleicons.org/html5/white" width="42" alt="HTML5" />
+  &nbsp;&nbsp;
+  <img align="middle" src="https://cdn.simpleicons.org/css/white" width="42" alt="CSS" />
+  &nbsp;&nbsp;
+  <img align="middle" src="https://cdn.simpleicons.org/github/white" width="42" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img align="middle" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="42" alt="Java" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="https://github.com/user-attachments/assets/de9d4af4-c2f9-4a64-93a1-7d78dcf109a5" width="170" alt="pixel-iron-man" />
 </div>
+<br>
 
-<br/>
 
 ##  🎵 When I'm not coding
 
