@@ -9,22 +9,53 @@
 ### 🚀 About Me
 - 🎓 2nd-year Software Engineering student @ BITS College, Addis Ababa
 - 🤖 I write code. Sometimes it even works.
-- 🧑‍💻 Currently trying to understand what my code is doing
+- 🧑‍💻 Currently trying to figure out life.
 - 🎧 I make Music because apparently sleeping is optional.
-- 🏀 Baller for life 
+- 🏀 Baller for life. 
 - 💭 Sometimes you gotta run before you can walk.
 ---
-## 💻 Choice of weapon (for NOW)
+### 💻 Choice of weapon (for NOW)
 <br>
-<p align="left">
- <img align="right" width="140" alt="pixel-iron-man" src="https://github.com/user-attachments/assets/de9d4af4-c2f9-4a64-93a1-7d78dcf109a5" />
-  <img src="https://cdn.simpleicons.org/python/white" width="40" alt="Tech stack" />
-  <img src="https://cdn.simpleicons.org/html5/white" width="40" alt="Tech stack" />
-  <br>
-  <img src="https://cdn.simpleicons.org/css/white" width="40" alt="Tech stack" />
-  <img src="https://cdn.simpleicons.org/github/white" width="40" alt="Tech stack" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="40" alt="Tech stack" />
-</p>
+<br>
+<table align="center" border="0">
+<tr>
+<td align="center" valign="middle">
+
+<img src="https://cdn.simpleicons.org/python/white" width="42" alt="Python"/>
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://cdn.simpleicons.org/html5/white" width="42" alt="HTML5"/>
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://cdn.simpleicons.org/css/white" width="42" alt="CSS"/>
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://cdn.simpleicons.org/github/white" width="42" alt="GitHub"/>
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="42" alt="Java"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/de9d4af4-c2f9-4a64-93a1-7d78dcf109a5" width="140" alt="pixel-iron-man"/>
+
+</div>
+
+<br/>
 
 ##  🎵 When I'm not coding
 
@@ -34,7 +65,7 @@ Probably making music, opening FL Studio, adding 47 plugins, and finishing absol
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+<img src="https://streak-stats.demolab.com?user=amenendriyas&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
 
 </div>
 
