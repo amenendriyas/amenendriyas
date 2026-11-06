@@ -32,17 +32,25 @@
 <br>
 
 
-##  🎵 When I'm not coding
+<!--##  🎵 When I'm not coding
 
-Probably making music, opening FL Studio, adding 47 plugins, and finishing absolutely nothing.
+Probably making music, opening FL Studio, adding 47 plugins, and finishing absolutely nothing.-->
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats:
+<div align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=amenendriyas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=amenendriyas&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
-
+  <img src="https://streak-stats.demolab.com/?user=amenendriyas&theme=transparent&hide_border=true" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amenendriyas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amenendriyas&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amenendriyas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
