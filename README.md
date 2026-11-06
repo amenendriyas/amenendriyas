@@ -16,7 +16,8 @@
 ---
 ## 💻 Choice of weapon (for NOW)
 <br>
-<p align="left">
+<p align="center">
+  <img align="right" src="https://i.pinimg.com/736x/81/15/c1/8115c1306f16bbb6566db2233adeacf9.jpg" width="100"/>
   <img src="https://cdn.simpleicons.org/python/white" width="40" alt="Tech stack" />
 
   
@@ -28,9 +29,6 @@
   <img src="https://cdn.simpleicons.org/github/white" width="40" alt="Tech stack" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="40" alt="Tech stack" />
 </p>
-<div align="right">
- 
-</div>
 
 ##  🎵 When I'm not coding
 
